@@ -6,7 +6,7 @@ This repository is to illustrate the difference between DComment("Deep Code-Comm
 
 2 Dataset
 --------------
-We use the public [dataset](http://www2.unibas.it/gscanniello/coherence/). All data is converted into json format in `preprocess/`.
+We use the [public dataset](http://www2.unibas.it/gscanniello/coherence/). All data is converted into json format in `preprocess/`.
 
 3 Result
 --------------

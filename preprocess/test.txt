@@ -1,0 +1,408 @@
+{"text": "string input output string message { system println message ; buffered reader br buffered reader input stream reader system ; string string ; { string br read ; } io exception { system println error reading ; main menu ; } string ;   pass prompt user user string", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "synchronized recipe recipe { recipe array ;   recipe array", "metadata": [], "label": "COHERENT"}
+{"text": "synchronized string delete recipe recipe delete { recipe array recipe delete null { string recipe recipe array recipe delete ; recipe array recipe delete null ; recipe ; } { null ;   recipe deleted position null recipe doe exist", "metadata": [], "label": "COHERENT"}
+{"text": "recipe book { recipe array recipe num recipe ;   constructor recipe book", "metadata": [], "label": "COHERENT"}
+{"text": "string delete recipe recipe delete { recipe book delete recipe recipe delete ;   deleted recipe null recipe deleted", "metadata": [], "label": "COHERENT"}
+{"text": "price { price ;   price", "metadata": [], "label": "COHERENT"}
+{"text": "set price string price recipe exception { amt price ; { amt price integer parse price ; } format exception { recipe exception price positive integer ; } amt price { price amt price ; } { recipe exception price positive integer ;   set", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "set amt coffee string coffee recipe exception { amt coffee ; { amt coffee integer parse coffee ; } format exception { recipe exception unit coffee positive integer ; } amt coffee { amt coffee amt coffee ; } { recipe exception unit coffee positive integer ;   incoherencetype", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "synchronized ingredient recipe { ingredient { inventory coffee amt coffee ; inventory milk amt milk ; inventory sugar amt sugar ; inventory chocolate amt chocolate ; true ; } { false ;   remove ingredient recipe", "metadata": [], "label": "COHERENT"}
+{"text": "content reader ixml reader reader ixml entity resolver resolver string buffer { reader reader ; resolver resolver ; buffer buffer ; buffer ;   creates reader", "metadata": [], "label": "COHERENT"}
+{"text": "pi reader ixml reader reader { reader reader ; data false ;   creates reader", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "finalize throwable { reader null ; finalize ;   clean object destroyed", "metadata": [], "label": "COHERENT"}
+{"text": "error missing attribute string system nr string element string attribute xml validation exception { xml validation exception xml validation exception missing attribute system nr element attribute attribute null element element expects attribute named attribute ;   xml validation exception attribute missing", "metadata": [], "label": "COHERENT"}
+{"text": "string read ixml reader reader entity io exception xml parse exception { ch reader read ; string buffer buf string buffer ; buf append ch ; ch entity { ch ; { ch reader read ; buf append ch ; } } buf string ;   read character reader", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "error invalid entity string system nr string entity xml parse exception { xml parse exception system nr invalid entity entity ; ;   xml parse exception entity resolved", "metadata": [], "label": "COHERENT"}
+{"text": "error missing pc data string system nr string parent element xml validation exception { xml validation exception xml validation exception missing pcdata system nr element null attribute null attribute null missing pcdata element parent element ;   xml validation exception pcdata element wa missing", "metadata": [], "label": "COHERENT"}
+{"text": "error missing element string system nr string parent element string missing element xml validation exception { xml validation exception xml validation exception missing element system nr missing element attribute null attribute null element parent element expects missing element ;   xml validation exception element missing", "metadata": [], "label": "COHERENT"}
+{"text": "save unsaved change action application app view view { app view ;   creates instance", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "skip whitespace ixml reader reader string buffer buffer io exception { ch ; buffer null { { ch reader read ; } ch ch ch ; } { ; ; { ch reader read ; ch ch ch { ; } ch { buffer append ; } { buffer append ; } } } reader unread ch ;   skip whitespace reader", "metadata": [], "label": "COHERENT"}
+{"text": "process literal string entity io exception xml parse exception { entity { entity entity substring entity length ; integer parse entity ; } { entity entity substring entity length ; integer parse entity ;   process character literal", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "set view { view ; view ; fire property change view property ;   method set view doe suit", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "array list child { child ;   vector child iterator", "metadata": [], "label": "COHERENT"}
+{"text": "ha child { child empty ;   element ha child", "metadata": [], "label": "COHERENT"}
+{"text": "ixml element child named string string namespace { iterator enm child iterator ; enm ha { ixml element child ixml element enm ; string str child ; str null str equal ; str child namespace ; str null { null ; } { str equal namespace ; } { child ; } } null ;   search child element", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "set action map action map { action map ;   set application wide action map", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "string { ;   ", "metadata": [], "label": "COHERENT"}
+{"text": "equal object raw element { { equal xml element ixml element raw element ; } cast exception { false ;   true element equal element", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "ixml element create element string string system nr { xml element system nr ;   creates empty element", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "remove child ixml element child { child null { illegal argument exception child null ; } child remove child ;   remove child element", "metadata": [], "label": "COHERENT"}
+{"text": "ha attribute string { attribute null ;   attribute exists", "metadata": [], "label": "COHERENT"}
+{"text": "attribute string string namespace { xml attribute attr attribute namespace ; attr null { ; } { { parse attr ; } format exception { ;   attribute element", "metadata": [], "label": "COHERENT"}
+{"text": "string system { system ;   system data element started", "metadata": [], "label": "COHERENT"}
+{"text": "set string { ; ; namespace null ;   set", "metadata": [], "label": "COHERENT"}
+{"text": "iterator iterate attribute { array list result array list ; iterator enm attribute iterator ; enm ha { xml attribute attr xml attribute enm ; result add attr ; } result iterator ;   enumeration attribute", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "update view title view view frame { uri uri view uri ; string title ; uri null { title label string unnamed file ; } { title uri util uri ; } view ha unsaved change { title ; } view set title label formatted frame title title view multiple ; set title view title ;   update title view display frame", "metadata": [], "label": "COHERENT"}
+{"text": "eof current stream io exception { ch current reader pb reader read ; ch { true ; } { current reader pb reader unread ch ; false ;   true current stream ha character left read", "metadata": [], "label": "COHERENT"}
+{"text": "set system string system malformed url exception { current reader system url current reader system system ;   set system current stream", "metadata": [], "label": "COHERENT"}
+{"text": "stream level { reader size ;   current level stream stack stream", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "finalize throwable { prototype null ; root null ; stack ; stack null ; finalize ;   clean object destroyed", "metadata": [], "label": "COHERENT"}
+{"text": "paste action { null ;   creates instance focused component", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "set builder ixml builder builder { builder builder ;   set builder creates logical structure xml data", "metadata": [], "label": "COHERENT"}
+{"text": "install view listener view { install view listener ; action redo action view action map ; redo action view null redo action view { redo action view add property change listener redo action property listener ;   installs listener view object", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "set owner figure { owner ;   set connector owner", "metadata": [], "label": "COHERENT"}
+{"text": "connector { owner null ;   construct connector ha owner", "metadata": [], "label": "COHERENT"}
+{"text": "cut action { null ;   creates instance focused component", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "exit action application app { app ; resource bundle util label resource bundle util bundle org jhotdraw app label ; label configure action ;   creates instance", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "install view listener view { add property change listener view listener ;   installs listener view object", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "string property { property ;   property", "metadata": [], "label": "COHERENT"}
+{"text": "decoration filled stroked solid { filled filled ; stroked stroked ; solid solid ;   construct arrow angle radius", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "figure event figure source rectangle invalidated { source ; invalidated invalidated ;   construct event source figure", "metadata": [], "label": "COHERENT"}
+{"text": "composite figure composite figure { composite figure source ;   changed drawing", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "file action application app { app ; resource bundle util label resource bundle util bundle org jhotdraw app label ; label configure action ;   creates instance", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "handle figure owner { owner null { illegal argument exception owner null ; } owner owner ; owner add figure listener ;   creates instance", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "draw graphic { draw circle color editor handle attribute handle attribute key handle fill color color editor handle attribute handle attribute key handle stroke color ;   draw handle", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "fire undoable edit happened undoable edit edit { view drawing fire undoable edit happened edit ;   notify listener list registered notification event type", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "track start anchor modifier { saved target target ; start anchor ; saved liner owner liner ; owner set liner null ; disconnect ; fire handle request secondary handle ;   disconnect connection", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "tool event tool src drawing view view rectangle invalidated { src ; view view ; invalidated invalidated ;   creates instance", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "view property action application app view view string property object property { app view property property property ;   creates instance", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "synchronized bring front figure figure { basic remove figure { basic add figure ; fire invalidated figure drawing ;   brings figure front drawing", "metadata": [], "label": "COHERENT"}
+{"text": "layout { layouter null { rectangle bound bound ; bound bound ; rectangle layouter layout ; set bound width height ; invalidate ;   layout algorithm define child component laid relation", "metadata": [], "label": "COHERENT"}
+{"text": "remove child { change ; figure linked list figure child { drawing null { remove notify drawing ; } basic remove ; } changed ;   remove child", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "bezier node handle bezier figure owner { owner owner ;   creates instance", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "close handle figure owner locator locator { owner locator ;   creates instance", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "draw graphic { draw circle color editor handle attribute handle attribute key scale handle fill color color editor handle attribute handle attribute key scale handle stroke color   draw handle", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "add corner resize handle figure collection handle handle { handle add south east ; handle add south west ; handle add north east ; handle add north west ;   creates handle corner figure add provided collection", "metadata": [], "label": "COHERENT"}
+{"text": "image input format image holder figure prototype string format string description string file extension string mime type { prototype format description string { file extension } string { mime type } ;   creates image input format image format", "metadata": [], "label": "COHERENT"}
+{"text": "add corner transform handle figure collection handle handle { handle add south east ; handle add south west ; handle add north east ; handle add north west ;   creates handle corner figure add provided collection", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "locator north east { relative decorator locator ;   north east", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "action map create action map { null ;   method create tool specific action map action map drawing edtior", "metadata": [], "label": "COHERENT"}
+{"text": "dom storable input output format dom factory factory { factory drawing xml image jhotdraw ;   creates instance format drawing file extension xml mime type image jhotdraw", "metadata": [], "label": "COHERENT"}
+{"text": "set input map input map { input map ;   set input map tool", "metadata": [], "label": "COHERENT"}
+{"text": "write output stream drawing drawing io exception { write drawing drawing child null null ;   writes drawing output stream", "metadata": [], "label": "COHERENT"}
+{"text": "relative locator relative relative { relative relative false ;   creates instance", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "locator south west { south west false ;   transforming south west", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "locator east transform { relative locator transform ;   east", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "locator south west transform { relative locator transform ;   south west", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "connect connection figure connector start connector connector connector { connect start connector connector ;   method called figure user connection", "metadata": [], "label": "COHERENT"}
+{"text": "connect connection figure connector start connector { connect start connector ;   method called figure user start connection", "metadata": [], "label": "COHERENT"}
+{"text": "dimension preferred size col { dimension text width text height ;   preferred size overlay", "metadata": [], "label": "COHERENT"}
+{"text": "add action listener action listener listener { text field add action listener listener ;   add action listener", "metadata": [], "label": "COHERENT"}
+{"text": "bean descriptor bean descriptor { bdescriptor ;   bean bean descriptor", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "property { property ;   bean property property commonly initially chosen update human customizing bean", "metadata": [], "label": "COHERENT"}
+{"text": "property { property ;   bean property property commonly initially chosen update human customizing bean", "metadata": [], "label": "COHERENT"}
+{"text": "event set descriptor event set descriptor { edescriptor ;   bean event set descriptor", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "attribute slider { slider vertical ;   creates instance", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "outcode rectangle rectangle { outcode ; width { outcode ; } width { outcode left ; } height { outcode bottom ; } height { outcode top ; } outcode ;   method computes binary mask indicating rectangle rectangle edge rest rectangle", "metadata": [], "label": "COHERENT"}
+{"text": "length { sqrt length ;   distance", "metadata": [], "label": "COHERENT"}
+{"text": "direction { direction ; vx ; vy ; vy vx vx vy { direction ; } vy vx vy vx { direction top ; } vx vy vx vy { direction left ; } { direction bottom ; } direction ;   direction top bottom left", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "rectangle bound { bound bound ;   bounding box polygon", "metadata": [], "label": "COHERENT"}
+{"text": "translate delta delta { ; npoints ; { xpoints delta ; ypoints delta ; } bound null { bound delta ; bound delta ;   translates vertex polygon delta axis delta axis", "metadata": [], "label": "COHERENT"}
+{"text": "update bound { bound { bound width bound width bound ; bound ; } { bound width math max bound width bound ; bound bound ; } bound { bound height bound height bound ; bound ; } { bound height math max bound height bound ;   resizes bounding box accomodate coordinate", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "{ poly npoints ;   test read", "metadata": [], "label": "COHERENT"}
+{"text": "winding rule { wind odd ;   winding rule determining interior path", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "hash code { sum left bottom ; sum top ; val sum sum left ; val sum sum top ; sum val val ; java lang bit sum sum val ;   hash code inset", "metadata": [], "label": "COHERENT"}
+{"text": "equal object obj { obj inset { inset inset obj ; top top left left bottom bottom ; } false ;   check inset object equal", "metadata": [], "label": "COHERENT"}
+{"text": "width { width ;   width dimension precision", "metadata": [], "label": "COHERENT"}
+{"text": "tool tool { null ;   specialized tool coordinate", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "fire undoable edit happened undoable edit edit { drawing null { drawing fire undoable edit happened edit ;   notify undoable edit listener drawing figure ha", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "suppress warning unchecked map attribute key object { null null allowed { null pointer exception null allowed attribute key key ; } ;   method perform type safe operation attribute map", "metadata": [], "label": "COHERENT"}
+{"text": "clone map attribute key object { { null null clazz cast method invoke clone ; } method exception { internal error internal error ; init ; ;   convenience method putting clone map", "metadata": [], "label": "COHERENT"}
+{"text": "split segment split tolerance { path split segment split tolerance ;   split segment segment wa hit", "metadata": [], "label": "COHERENT"}
+{"text": "join segment join tolerance { path join segment join tolerance ;   join segment hit node polyline", "metadata": [], "label": "COHERENT"}
+{"text": "bezier figure { false ;   creates empty bezier figure bezier path node", "metadata": [], "label": "COHERENT"}
+{"text": "drawing editor { tool handler tool handler ; set attribute fill color color white ; set attribute stroke color color black ; set attribute text color color black ; view hash set drawing view ; input map create input map ; action map create action map ;   creates instance", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "drawing editor proxy { forwarder forwarder ;   creates instance", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "property descriptor property descriptor { pdescriptor ;   bean property descriptor", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "set drawing drawing { drawing ; xxx doe pas drawing editor opacity slider handler set drawing drawing ; opacity field handler set drawing drawing ; update panel ;   set grid constrainer edited panel", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "set bound width height { set bound width height ; validate view translation ;   change view translation", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "figure selected figure check figure { selected figure check figure ;   test figure selected", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "drawing view { scale factor translation scale factor translation ;   convert drawing coordinate view coordinate", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "transform affine transform tx { anchor start ; lead ; set bound tx transform anchor anchor tx transform lead lead ;   move figure location", "metadata": [], "label": "COHERENT"}
+{"text": "bean descriptor bean descriptor { bdescriptor ;   bean bean descriptor", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "vgap { vgap ;   vertical gap component", "metadata": [], "label": "COHERENT"}
+{"text": "clipboard target { target ;   proxy target", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "awt clipboard clipboard target { target target ;   creates proxy target object", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "failed throwable error { error print stack trace ;   called event dispatching thread construct method ha thrown error", "metadata": [], "label": "COHERENT"}
+{"text": "data flavor transfer data flavor { data flavor flavor array data flavor transferables size ;   array data flavor object indicating flavor data provided", "metadata": [], "label": "COHERENT"}
+{"text": "sheet supported { sheet supported ;   true sheet support sheet display", "metadata": [], "label": "COHERENT"}
+{"text": "message sheet component parent component object message sheet listener listener { message sheet parent component message option pane message listener ;   brings message sheet", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "set animated { animated ; animated ; fire property change animated ;   set true sheet transition hidden", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "sheet uri chooser chooser component parent sheet listener listener { chooser set dialog type file chooser dialog ; sheet chooser parent null listener ;   display file file chooser sheet", "metadata": [], "label": "COHERENT"}
+{"text": "tree path selection path { selection path ;   selected font", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "update ui { browser ui ui manager fall basic browser ui ui manager ui null { set ui font chooser ui ui manager ui ; } { set ui palette font chooser ui create ui ;   reset ui property current feel", "metadata": [], "label": "COHERENT"}
+{"text": "pick attribute action drawing editor editor { editor ; label configure action edit pick attribute ; set enabled true ;   creates instance", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "set image image data buffered image buffered image { change ; image data image data ; buffered image buffered image ; changed ;   set image", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "set buffered image buffered image image { change ; image data null ; buffered image image ; changed ;   set buffered image", "metadata": [], "label": "COHERENT"}
+{"text": "figure { rectangle rectangle rectangle clone ; grow attribute key perpendicular hit growth ; geom grow grow grow ; ;   check inside figure", "metadata": [], "label": "COHERENT"}
+{"text": "transform affine transform tx { transform tx ; presentation figure null { presentation figure transform tx ;   standard presentation method delegated encapsulated presentation figure", "metadata": [], "label": "COHERENT"}
+{"text": "major grid spacing { major grid spacing ;   spacing major grid", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "translate translation direction dir { constrain clone ; dir { north north west north east height ; ; south south west south east height ; ; } dir { west north west south west width ; ; east north east south east width ; ; } ;   move closest grid direction", "metadata": [], "label": "COHERENT"}
+{"text": "constrain translation direction dir { constrain clone ; dir { north north west north east { ; } { height ; } ; south south west south east { height ; } { ; } ; } dir { west north west south west { ; } { width ; } ; east north east south east { width ; } { ; } ; } ;   constrains placement direction", "metadata": [], "label": "COHERENT"}
+{"text": "handle popup menu mouse event evt { evt evt ; figure figure view figure ; figure null drawing action size { popup menu figure evt component ; } { popup menu null ;   hook method overriden subclass provide specialised behaviour event popup trigger", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "drawing view view { view ;   drawing view figure attribute editor handler attached", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "update drawing editor { update drawing editor ;   true attribute editor update drawing editor", "metadata": [], "label": "COHERENT"}
+{"text": "string parameter string { { parameter ; } null pointer exception { null ;   parameter applet context", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "svg drawing panel sample { init component ; set size dimension ;   creates form svg drawing panel sample", "metadata": [], "label": "COHERENT"}
+{"text": "sheet event sheet source option pane option pane option object object input { source ; pane option pane ; option option ; ; input input ;   creates instance", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "file chooser file chooser { file chooser pane ;   file chooser pane sheet", "metadata": [], "label": "COHERENT"}
+{"text": "odg bezier figure { false ;   creates instance", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "odg ellipse figure { ;   creates instance", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "combine action drawing editor editor { editor odg path figure ; label resource bundle util bundle org jhotdraw sample odg label ; label configure action ;   creates instance", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "creation finished figure created figure { view selection ; view add selection created figure ; edit text holder figure created figure ;   method subclass perform additonal user interaction figure ha created", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "multi icon icon icon { icon icon ; generate missing icon ;   creates instance array icon", "metadata": [], "label": "COHERENT"}
+{"text": "bezier path clone { bezier path bezier path clone ; size ; ; { set node clone ; } ;   creates deep copy bezier path", "metadata": [], "label": "COHERENT"}
+{"text": "outline tolerance { shape outline tolerance ;   true outline bezier path", "metadata": [], "label": "COHERENT"}
+{"text": "compute center tangent array list center { hat center ; ii center center ; ii center center ; hat center ; hat center ; hat center normalize hat center ; hat center ;   approximate unit tangent center digitized curve", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "distance { math sqrt squared distance ;   distance", "metadata": [], "label": "COHERENT"}
+{"text": "compute tangent array list { hat ; hat ii ; hat normalize hat ; hat ;   approximate unit tangent endpoint digitized curve", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "dot { ;   dot product vector", "metadata": [], "label": "COHERENT"}
+{"text": "drag tracker drag tracker figure { drag tracker null { drag tracker drag tracker ; } drag tracker set dragged figure ; drag tracker ;   method drag tracker handle user interaction dragging figure", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "write uri uri chooser fc io exception { drawing drawing view drawing ; output format output format drawing output format ; output format write file drawing ;   writes view uri", "metadata": [], "label": "COHERENT"}
+{"text": "font chooser main { init component ; add font chooser ;   creates form font chooser main", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "event set descriptor event set descriptor { edescriptor ;   bean event set descriptor", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "property descriptor property descriptor { pdescriptor ;   bean property descriptor", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "method descriptor method descriptor { mdescriptor ;   bean method descriptor", "metadata": [], "label": "COHERENT"}
+{"text": "event set descriptor event set descriptor { edescriptor ;   bean event set descriptor", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "bean descriptor bean descriptor { bdescriptor ;   bean bean descriptor", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "property descriptor property descriptor { pdescriptor ;   bean property descriptor", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "event { event ;   bean event event commonly human bean", "metadata": [], "label": "COHERENT"}
+{"text": "property descriptor property descriptor { pdescriptor ;   bean property descriptor", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "draw graphic { draw diamond color yellow color black ;   draw handle", "metadata": [], "label": "COHERENT"}
+{"text": "tool tool bar { resource bundle util label resource bundle util bundle org jhotdraw sample svg label ; set label string tool toolbar ;   creates instance", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "set text string text { set text text ;   set text text figure", "metadata": [], "label": "COHERENT"}
+{"text": "odg figure create enhanced geometry ellipse figure rectangle bound map attribute key object io exception { odg ellipse figure figure odg ellipse figure ; figure set bound bound ; figure set attribute ; figure ;   creates ellipse figure", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "odg figure create enhanced geometry rectangle figure rectangle bound map attribute key object io exception { odg rect figure figure odg rect figure ; figure set bound bound ; figure set attribute ; figure ;   creates rect figure", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "tab size { ;   character expand tab", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "tool tool { editable { text editing tool text editing tool ; ; } null ;   specialized tool coordinate", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "set arc width height { set arc width width ; set arc height height ;   convenience method setting arc width arc height", "metadata": [], "label": "COHERENT"}
+{"text": "odg figure read frame element ixml element elem io exception { debug { system println odg input format read frame element elem implemented ; } null ;   read lt draw frame gt element xml element", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "odg rect figure { ;   creates instance", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "{ hit shape ;   check inside figure", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "java util list figure figure front { ensure sorted ; reversed list figure child ;   iterator iterate front child", "metadata": [], "label": "COHERENT"}
+{"text": "triangle figure { ;   creates instance", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "{ shape triangle bezier path ; grow attribute key perpendicular hit growth ; grow { grow stroke grow stroke grow attribute key stroke total width stroke miter limit ; triangle create stroked shape triangle ; } triangle ;   check inside figure", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "attribute action drawing editor editor attribute key key object { editor key null null ;   creates instance", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "unregister event handler { editor null { editor remove property change listener event handler ; } active view null { active view remove figure selection listener event handler ; active view remove property change listener event handler ; active view null ;   unregisters event handler drawing editor active drawing view", "metadata": [], "label": "COHERENT"}
+{"text": "string { ;   method net bean gui builder doesn support bean", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "property { property ;   bean property property commonly initially chosen update human customizing bean", "metadata": [], "label": "COHERENT"}
+{"text": "event set descriptor event set descriptor { edescriptor ;   bean event set descriptor", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "{ hit shape ;   check inside figure", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "event { event ;   bean event event commonly human bean", "metadata": [], "label": "COHERENT"}
+{"text": "svg text figure { text ;   creates instance", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "svg path figure { add svg bezier figure ; svg attribute key set ;   creates instance", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "tool tool { editable { text editing tool tool text editing tool ; tool ; } null ;   specialized tool coordinate", "metadata": [], "label": "COHERENT"}
+{"text": "set constrainer grid constrainer { constrainer ; width field set constrainer width ; height field set constrainer height ; theta field set constrainer theta math pi ;   set grid constrainer edited panel", "metadata": [], "label": "COHERENT"}
+{"text": "increase handle detail level action drawing editor editor { editor ; label configure action ;   creates instance", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "font chooser handler drawing editor editor attribute key font key font chooser font chooser popup menu popup menu { editor ; key key ; font chooser font chooser ; popup menu popup menu ; font chooser add action listener ; font chooser add property change listener ; update enabled ;   creates instance", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "border opaque { false ;   true border opaque", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "undo undo exception { undo redo progress true ; { undo ; } { undo redo progress false ; update action ;   undoes edit event", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "composite edit { ;   creates composite edit significance", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "composite edit string presentation { presentation presentation ; true ;   creates composite edit presentation", "metadata": [], "label": "COHERENT"}
+{"text": "object invoke object obj string method method exception { { method method obj method method { type } ; method invoke obj object { } ; } illegal access exception { method exception method accessible ; } invocation target exception { method supposed exception internal error message ;   invokes setter method exists", "metadata": [], "label": "COHERENT"}
+{"text": "object invoke string clazz string method type object object { { invoke clazz method type ; } exception { ; } method exception { ;   invokes parameterless method exists", "metadata": [], "label": "COHERENT"}
+{"text": "invoke getter clazz string method { { method method clazz method method ; object result method invoke null object ; result ; } method exception { ; } illegal access exception { ; } invocation target exception { ;   invokes getter method exists", "metadata": [], "label": "COHERENT"}
+{"text": "invoke exists object obj string method clazz object { { invoke obj method clazz ; } method exception {   invokes setter method exists", "metadata": [], "label": "COHERENT"}
+{"text": "object invoke clazz string method method exception { { method method clazz method method ; object result method invoke null object ; result ; } illegal access exception { method exception method accessible ; } invocation target exception { method supposed exception internal error message ;   invokes accessible parameterless method exists", "metadata": [], "label": "COHERENT"}
+{"text": "string formatted string key object argument { message format format string key argument ;   formatted string javax text message format", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "install tool bar prefs handler preference prefs string tool bar toolbar { tool bar prefs handler toolbar prefs ;   installs toolbar preference handler", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "install palette prefs handler preference prefs string window window { install palette prefs handler prefs window ;   installs palette preference handler", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "drawing editor drawing editor { editor ;   drawing editor view", "metadata": [], "label": "COHERENT"}
+{"text": "event set descriptor event set descriptor { edescriptor ;   bean event set descriptor", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "property { property ;   bean property property commonly initially chosen update human customizing bean", "metadata": [], "label": "COHERENT"}
+{"text": "event set descriptor event set descriptor { edescriptor ;   bean event set descriptor", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "font tool bar { resource bundle util label resource bundle util bundle org jhotdraw sample svg label ; set label string font toolbar ; font chooser load font ; set disclosure count ;   creates instance", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "save writer io exception { doctype null { write doctype ; write doctype ; write ; } xml writer writer xml writer ; writer write xml element document child ;   writes content dom output writer", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "nano xmldom output dom factory factory { factory factory ; objectids hash map object string ; document xml element ; hash map false false ; current document ; stack stack xml element ; stack push current ;   creates instance", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "attribute string { string element current attribute ; length ;   attribute current element dom document", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "element count { count ; node list list current child node ; ; list length ; { node node list item ; node element { count ; } } count ;   child element current element", "metadata": [], "label": "COHERENT"}
+{"text": "attribute string { string element current attribute ; length parse ;   attribute current element dom document", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "string text { text null ;   text current element dom document", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "add attribute string { element current set attribute string ;   add attribute current element dom document", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "add text string text { current append child document create text node text ;   add text current element dom document", "metadata": [], "label": "COHERENT"}
+{"text": "string text { text null ;   text current element dom document", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "string tag { current ;   tag current element", "metadata": [], "label": "COHERENT"}
+{"text": "element count string tag { count ; array list list current child ; ; list size ; { xml element node xml element list ; node equal tag { count ; } } count ;   child element tag current element", "metadata": [], "label": "COHERENT"}
+{"text": "element { stack push current ; array list list current child ; current xml element list ;   element current node", "metadata": [], "label": "COHERENT"}
+{"text": "attribute string { string string current attribute ; null length parse ;   attribute current element dom document", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "input stream post string raw cooky map parameter io exception { set cooky raw cooky ; post cooky ; set parameter parameter ; post ;   post request server cooky parameter cooky parameter passed argument param raw cooky request cooky parameter input stream server response io exception set parameter set cooky", "metadata": [], "label": "COHERENT"}
+{"text": "set parameter object parameter io exception { parameter null { ; parameter length ; { set parameter parameter string parameter ;   add parameter request file file uploaded stringified request io exception", "metadata": [], "label": "COHERENT"}
+{"text": "input stream post string object string object string object string object io exception { post cooky ; set parameter ; set parameter ; set parameter ; set parameter ; post ;   post post request server parameter param parameter param parameter param parameter param parameter param parameter param parameter param fourth parameter param fourth parameter input stream server response io exception set parameter", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "input stream post url url map string string cooky map parameter io exception { client http request url post cooky parameter ;   post request url cooky parameter passed argument cooky parameter input stream server response io exception set cooky set parameter", "metadata": [], "label": "COHERENT"}
+{"text": "set parameter string file file io exception { set parameter file path file input stream file ;   add file parameter request upload io exception", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "handle disconnect connector start connector { task figure sf task figure start owner ; task figure ef task figure owner ; sf remove dependency ; ef remove dependency ;   handle disconnection connection", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "read master element ixml element elem hash map string style style io exception { debug { system println odg style reader unsupported elem element ;   read lt style master gt element xml element", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "event { event ;   bean event event commonly human bean", "metadata": [], "label": "COHERENT"}
+{"text": "read list style element ixml element elem hash map string style style io exception { debug { system println odg style reader unsupported elem element ;   read lt text list style gt element xml element", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "read drawing property element ixml element elem hash map attribute key object io exception { debug { system println odg style reader unsupported elem element ;   read lt style drawing property gt element xml element", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "matcher document document string string { document string true match type ;   creates instance matcher performs sensitive search", "metadata": [], "label": "COHERENT"}
+{"text": "previous start { start start ; previous ;   reset matcher attempt previous subsequence input sequence match pattern starting", "metadata": [], "label": "COHERENT"}
+{"text": "write uri uri chooser chooser io exception { drawing drawing view drawing ; output format output format drawing output format ; output format write file drawing ;   writes view uri", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "scale factor { scale factor ;   scale factor formatter", "metadata": [], "label": "COHERENT"}
+{"text": "comparable minimum { min ;   minimum permissible", "metadata": [], "label": "COHERENT"}
+{"text": "null { null ;   true null allowed", "metadata": [], "label": "COHERENT"}
+{"text": "formatter factory create formatter factory min max scale factor { create formatter factory min max scale factor false false ;   convenience method creating formatter factory scalable formatter java style decimal format", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "set appends dot { appends dot ;   specifies", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "comparable maximum { max ;   maximum permissible", "metadata": [], "label": "COHERENT"}
+{"text": "java formatter min max scale factor { min max scale factor false true ;   creates formatter format instance", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "read transform attribute ixml element elem hash map attribute key object io exception { string ; read attribute elem transform ; equal { transform transform elem ;   read transform attribute http org tr svg mobile coords html transform attribute", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "svg input format { svg figure factory ;   creates instance", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "object transfer data data flavor flavor unsupported flavor exception io exception { flavor equal flavor { array input stream data ; } { unsupported flavor exception flavor ;   object represents data transferred", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "xml transferable data string mime type string human presentable { data data ; flavor data flavor mime type human presentable ;   creates xml transferable", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "set drawing drawing { drawing component set drawing ;   set drawing drawing panel", "metadata": [], "label": "COHERENT"}
+{"text": "drawing drawing { drawing component drawing ;   drawing drawing panel", "metadata": [], "label": "COHERENT"}
+{"text": "close { applet context applet context ; { applet context applet context ; } throwable { applet context null ; } applet context null { system exit ; } { { applet context document url document base parameter url ; } malformed url exception { print stack trace ;   close applet", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "event set descriptor event set descriptor { edescriptor ;   bean event set descriptor", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "property descriptor property descriptor { pdescriptor ;   bean property descriptor", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "bean descriptor bean descriptor { bdescriptor ;   bean bean descriptor", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "svg bezier figure { false ;   creates instance", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "set trail gap percent percent { trail gap percent percent { trail gap percent math min percent max trail gap percent ; notify listener plot change event ;   set gap bar chart notifies registered listener plot ha modified", "metadata": [], "label": "COHERENT"}
+{"text": "bar plot axis horizontal axis axis vertical axis axis compatible exception plot compatible exception { horizontal axis vertical axis inset intro gap percent trail gap percent category gap percent item gap percent ;   construct bar plot ax", "metadata": [], "label": "COHERENT"}
+{"text": "set category gap percent percent { category gap percent percent { category gap percent math min percent max category gap percent ; notify listener plot change event ;   incoherencetype", "metadata": [], "label": "COHERENT"}
+{"text": "category gap percent { category gap percent ;   percentage drawing space allocated providing gap category", "metadata": [], "label": "COHERENT"}
+{"text": "set label string label { string existing label ; existing null { existing equal label { label label ; notify listener axis change event ; } } { label null { label label ; notify listener axis change event ;   set label axis", "metadata": [], "label": "COHERENT"}
+{"text": "draw vertical string string text graphic { affine transform saved transform ; apply degree rotation affine transform rotate affine transform rotate instance math pi ; transform rotate ; draw string text ; set transform saved ;   utility method drawing text vertically", "metadata": [], "label": "COHERENT"}
+{"text": "set tick label visible flag { flag tick label visible { tick label visible flag ; notify listener axis change event ;   set flag determines tick label visible", "metadata": [], "label": "COHERENT"}
+{"text": "font tick label font { tick label font ;   font tick label", "metadata": [], "label": "COHERENT"}
+{"text": "set tick unit unit unit { tick unit unit ; notify listener axis change event ;   set tick unit axis", "metadata": [], "label": "COHERENT"}
+{"text": "simple format tick label formatter { tick label formatter ;   format object format tick label", "metadata": [], "label": "COHERENT"}
+{"text": "title position horizontal alignment vertical alignment { position horizontal alignment vertical alignment inset ;   standard constrcutor build title position alignment inset pixel title", "metadata": [], "label": "COHERENT"}
+{"text": "set position position { position position { check position valid position position ; notify listener title change event ;   set position title", "metadata": [], "label": "COHERENT"}
+{"text": "set inset inset inset { inset equal inset { inset inset ; notify listener title change event ;   set inset title notifies registered listener change", "metadata": [], "label": "COHERENT"}
+{"text": "object clone { title duplicate null ; { duplicate title clone ; } clone supported exception { happen cloneable implemented runtime exception title clone ; } duplicate set notify false ; duplicate set inset inset inset clone ; duplicate set notify true ; duplicate ;   clone title", "metadata": [], "label": "COHERENT"}
+{"text": "title { top center middle ;   constructor build title positioned top centered horizontally vertically space", "metadata": [], "label": "COHERENT"}
+{"text": "set vertical alignment alignment { vertical alignment alignment { vertical alignment alignment ; notify listener title change event ;   set vertical alignment title notifies registered listener change", "metadata": [], "label": "COHERENT"}
+{"text": "label drawn vertical { label drawn vertical ;   flag axis label drawn vertical orientation", "metadata": [], "label": "COHERENT"}
+{"text": "axis domain axis { axis horizontal axis ;   convenience method horizontal axis cast axis", "metadata": [], "label": "COHERENT"}
+{"text": "vertical axis range axis { vertical axis vertical axis ;   convenience method vertical axis cast vertical axis", "metadata": [], "label": "COHERENT"}
+{"text": "compatible plot plot plot { plot category plot true ; false ;   true plot compatible axis false", "metadata": [], "label": "COHERENT"}
+{"text": "draw vertical graphic rectangle plot { draw vertical vertical null { ; vertical size ; { set paint paint vertical color ; set stroke basic stroke ; draw horizontal axis translated vertical plot horizontal axis translated vertical plot plot height ;   support method draw", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "maximum horizontal data { dataset data chart dataset ; data null { datasets maximum domain data ; } null ;   maximum domain plotted horizontal axis xy plot", "metadata": [], "label": "COHERENT"}
+{"text": "set renderer vertical bar renderer renderer { renderer renderer ; notify listener plot change event ;   set renderer bar plot", "metadata": [], "label": "COHERENT"}
+{"text": "shape calculate background plot rectangle plot { plot ;   chart backgroud", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "axis vertical axis { axis vertical axis ;   convenience method reference vertical axis cast axis", "metadata": [], "label": "COHERENT"}
+{"text": "bar width category category dataset data { data series count ;   bar width displayed category", "metadata": [], "label": "COHERENT"}
+{"text": "ha item gap { true ;   true renderer gap item category", "metadata": [], "label": "COHERENT"}
+{"text": "set grid paint paint paint { grid paint paint ; notify listener axis change event ;   set paint color grid notifies registered listener axis ha modified", "metadata": [], "label": "COHERENT"}
+{"text": "set grid { grid ; notify listener axis change event ;   set visibility grid notifies registered listener axis ha modified", "metadata": [], "label": "COHERENT"}
+{"text": "stroke grid stroke { grid stroke ;   stroke draw grid", "metadata": [], "label": "COHERENT"}
+{"text": "title create instance string title font font { standard title title font ;   factory method concrete subclass title", "metadata": [], "label": "COHERENT"}
+{"text": "set text string text { text equal text { text text ; notify listener title change event ;   set title text", "metadata": [], "label": "COHERENT"}
+{"text": "text title string text font font { text font color black ;   constructor build text title attribute", "metadata": [], "label": "COHERENT"}
+{"text": "type { type ;   event type", "metadata": [], "label": "COHERENT"}
+{"text": "standard xy item renderer { plot shape true ; plot false ;   constructor", "metadata": [], "label": "COHERENT"}
+{"text": "axis change event axis axis { axis ; axis axis ;   constructor axis change event", "metadata": [], "label": "COHERENT"}
+{"text": "bar width category category dataset data { data series count ;   renderer series category separate bar", "metadata": [], "label": "COHERENT"}
+{"text": "vertical tick label { vertical tick label ;   flag indicating tick label drawn vertically", "metadata": [], "label": "COHERENT"}
+{"text": "horizontal axis { null ; vertical tick label false ;   constructor", "metadata": [], "label": "COHERENT"}
+{"text": "string plot type { low plot ;   plot type string", "metadata": [], "label": "COHERENT"}
+{"text": "stroke stroke { stroke ;   stroke object draw", "metadata": [], "label": "COHERENT"}
+{"text": "unit field count { field field ; count count ;   build unit", "metadata": [], "label": "COHERENT"}
+{"text": "field { field ;   field unit", "metadata": [], "label": "COHERENT"}
+{"text": "horizontal category axis string label { label ; vertical category label false ;   standard constructor build horizontal category axis attribute", "metadata": [], "label": "COHERENT"}
+{"text": "attempt exit { result option pane confirm dialog exit confirmation option pane option option pane question message ; result option pane option { dispose ; system exit ;   exit application user agrees", "metadata": [], "label": "COHERENT"}
+{"text": "category dataset create single category dataset { data integer { { integer } { integer } { integer } { integer } { integer } { integer } { integer } { integer } { integer } } ; category dataset data ;   creates category dataset category demo chart", "metadata": [], "label": "COHERENT"}
+{"text": "series count { ;   series data source", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "series item { series item ;   series item", "metadata": [], "label": "COHERENT"}
+{"text": "series count { series count ;   series data source", "metadata": [], "label": "COHERENT"}
+{"text": "series item { series item ;   series item", "metadata": [], "label": "COHERENT"}
+{"text": "string series series { series { ibm ; } error ;   series", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "sample low dataset { initialise data ;   constructor", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "close series item { series { close item ; } null ;   close series item", "metadata": [], "label": "COHERENT"}
+{"text": "tabbed pane tab { tab ;   reference tabbed pane", "metadata": [], "label": "COHERENT"}
+{"text": "edit label inset { inset chooser panel panel inset chooser panel label inset ; result option pane confirm dialog panel edit inset option pane cancel option option pane plain message ; result option pane option { label inset panel inset ; label inset text field set inset label inset ;   inset chooser panel allowing user modify label individual inset", "metadata": [], "label": "COHERENT"}
+{"text": "attempt grid stroke selection { stroke chooser panel panel stroke chooser panel null stroke sample ; result option pane confirm dialog panel stroke selection option pane cancel option option pane plain message ; result option pane option { grid stroke sample set stroke panel selected stroke ;   handle grid stroke selection", "metadata": [], "label": "COHERENT"}
+{"text": "minimum { minimum ;   current setting minimum axis range", "metadata": [], "label": "COHERENT"}
+{"text": "attempt modify background paint { color ; color chooser dialog background color color blue ; null { background paint set paint ;   user opportunity change background paint", "metadata": [], "label": "COHERENT"}
+{"text": "paint outline paint { outline paint paint ;   current outline paint", "metadata": [], "label": "COHERENT"}
+{"text": "stroke outline stroke { outline stroke stroke ;   current outline stroke", "metadata": [], "label": "COHERENT"}
+{"text": "axis property edit panel horizontal axis property edit panel { horizontal axis property panel ;   reference panel editing property horizontal axis", "metadata": [], "label": "COHERENT"}
+{"text": "paint outline paint { outline paint sample paint ;   current outline paint", "metadata": [], "label": "COHERENT"}
+{"text": "anti alias { antialias selected ;   current setting anti alias flag", "metadata": [], "label": "COHERENT"}
+{"text": "action performed action event event { string command event action command ; command equal background paint { attempt modify background paint ;   handle user interaction panel", "metadata": [], "label": "COHERENT"}
+{"text": "plot property edit panel plot property edit panel { plot property panel ;   reference plot property panel", "metadata": [], "label": "COHERENT"}
+{"text": "string title { title field text ;   title entered panel", "metadata": [], "label": "COHERENT"}
+{"text": "attempt paint selection { color color chooser dialog title color color blue ; null { title paint set paint ;   user opportunity select paint object", "metadata": [], "label": "COHERENT"}
+{"text": "set type { type ; close ;   set close depending type", "metadata": [], "label": "COHERENT"}
+{"text": "tick { tick tick size ;   tick", "metadata": [], "label": "COHERENT"}
+{"text": "set tick size size { tick size size ;   set width close tick", "metadata": [], "label": "COHERENT"}
+{"text": "low low close { low close basic stroke color blue ;   construct low item color", "metadata": [], "label": "COHERENT"}
+{"text": "valid horizontal alignment code { code { title left true ; title middle true ; title true ; false ;   utility method checking horizontal alignment code", "metadata": [], "label": "COHERENT"}
+{"text": "string plot type { horizontal bar plot ;   string describing type plot", "metadata": [], "label": "COHERENT"}
+{"text": "horizontal alignment { horizontal alignment ;   horizontal alignment title", "metadata": [], "label": "COHERENT"}
+{"text": "minimum horizontal data { dataset data chart dataset ; data null { datasets minimum range data ; } null ;   minimum range plotted horizontal axis horizontal bar plot", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "set minimum minimum { minimum minimum ; millis minimum time ; set minimum axis millis ;   set minimum visible axis", "metadata": [], "label": "COHERENT"}
+{"text": "set tick unit unit unit { tick unit unit ; notify listener axis change event ;   set tick unit axis", "metadata": [], "label": "COHERENT"}
+{"text": "rectangle { ;   rectangle outline bar", "metadata": [], "label": "COHERENT"}
+{"text": "simple format tick label formatter { tick label formatter ;   formatter tick label", "metadata": [], "label": "COHERENT"}
+{"text": "paint label paint { label paint ;   color shade draw axis label", "metadata": [], "label": "COHERENT"}
+{"text": "set tick mark visible flag { flag tick mark visible { tick mark visible flag ; notify listener axis change event ;   set flag tick mark", "metadata": [], "label": "COHERENT"}
+{"text": "set tick mark stroke stroke stroke { check argument stroke null { illegal argument exception axis set tick mark stroke null permitted ; } change tick mark stroke equal stroke { tick mark stroke stroke ; notify listener axis change event ;   set pen brush draw tick mark", "metadata": [], "label": "COHERENT"}
+{"text": "set label paint paint paint { check argument paint null { illegal argument exception axis set label paint null permitted ; } change label paint equal paint { label paint paint ; notify listener axis change event ;   set color shade draw axis label", "metadata": [], "label": "COHERENT"}
+{"text": "string label { label ;   label axis", "metadata": [], "label": "COHERENT"}
+{"text": "font label font { label font ;   font axis label", "metadata": [], "label": "COHERENT"}
+{"text": "set horizontal axis axis axis { set horizontal axis axis ;   set horizontal axis plot", "metadata": [], "label": "COHERENT"}
+{"text": "set trail gap percent percent { check argument percent percent max trail gap percent { illegal argument exception bar plot set trail gap percent argument valid range ; } change trail gap percent percent { trail gap percent percent ; notify listener plot change event ;   set gap bar chart notifies registered listener plot ha modified", "metadata": [], "label": "COHERENT"}
+{"text": "bar plot axis horizontal axis axis vertical axis { horizontal axis vertical axis plot inset intro gap percent trail gap percent category gap percent item gap percent null ; tool generator   construct bar plot", "metadata": [], "label": "COHERENT"}
+{"text": "period marker plot axis horizontal axis vertical axis compatible exception plot compatible exception { horizontal vertical ;   creates signal plot", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "intro gap percent { intro gap percent ;   intro gap", "metadata": [], "label": "COHERENT"}
+{"text": "minimum vertical data { dataset data chart dataset ; data null { datasets minimum range data ; } null ;   minimum range plotted vertical axis plot", "metadata": [], "label": "COHERENT"}
+{"text": "vertical axis axis { vertical axis vertical axis ;   convenience method reference vertical axis cast vertical axis", "metadata": [], "label": "COHERENT"}
+{"text": "trail gap percent { intro gap percent ;   trail gap", "metadata": [], "label": "COHERENT"}
+{"text": "compatible horizontal axis axis axis { axis category axis { true ; } false ;   check compatibility horizontal axis returning true axis compatible plot false", "metadata": [], "label": "COHERENT"}
+{"text": "auto range includes { auto range includes ;   flag automatic axis range forced", "metadata": [], "label": "COHERENT"}
+{"text": "calculate visible tick count { low minimum axis ; maximum axis ; unit tick unit ; math floor maximum axis unit math ceil minimum axis unit ;   calculates visible tick", "metadata": [], "label": "COHERENT"}
+{"text": "lower margin { lower margin ;   margin minimum axis le minimum data", "metadata": [], "label": "COHERENT"}
+{"text": "set auto range minimum size size { check argument size null { illegal argument exception axis set auto range minimum size null permitted ; } change auto range minimum size size { auto range minimum size size ; notify listener axis change event ;   incoherencetype", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "calculate visible tick { max maximum axis ; unit tick unit ; math floor maximum axis unit ; unit ;   calculates visible tick axis", "metadata": [], "label": "COHERENT"}
+{"text": "{ basic stroke color blue ;   standard constructor color", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "stroke stroke { stroke ;   stroke object draw", "metadata": [], "label": "COHERENT"}
+{"text": "{ ;   ", "metadata": [], "label": "COHERENT"}
+{"text": "shape renderer { shape ;   construct renderer draw shape", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "set circular flag { argument checking required change circular flag { circular flag ; notify listener plot change event ;   flag indicating pie chart circular stretched elliptical shape", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "compatible vertical axis axis axis { axis null true ; false ;   true axis compatible pie plot false", "metadata": [], "label": "COHERENT"}
+{"text": "set label type type { check argument type label type label type percent label type percent label { illegal argument exception pie plot set label type unrecognised type ; } change label type type { label type type ; notify listener plot change event ;   set label type", "metadata": [], "label": "COHERENT"}
+{"text": "string plot type { pie plot ;   string describing type plot", "metadata": [], "label": "COHERENT"}
+{"text": "set chart free chart chart { replacing existing chart plot registered listener chart null { chart remove change listener ; } chart chart ; chart data source reconfigure ax vertical axis null vertical axis configure ; horizontal axis null horizontal axis configure ;   set reference chart plot belongs", "metadata": [], "label": "COHERENT"}
+{"text": "set series outline paint paint paint { series outline paint paint ; notify listener plot change event ;   set paint outline shape representing series notifies registered listener chart ha modified", "metadata": [], "label": "COHERENT"}
+{"text": "set series outline stroke stroke stroke { series outline stroke stroke ; notify listener plot change event ;   set stroke draw shape representing series notifies registered listener chart ha modified", "metadata": [], "label": "COHERENT"}
+{"text": "minimum horizontal data { dataset data chart dataset ; data null { datasets minimum domain data ; } null ;   minimum domain range whichever displayed horizontal axis type plot implementing", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "set series paint paint paint { series paint paint ; notify listener plot change event ;   set paint color shape representing series notifies registered listener plot ha modified", "metadata": [], "label": "COHERENT"}
+{"text": "shape shape series item scale { rectangle scale scale scale scale ; ellipse scale scale scale scale ;   shape plotting data", "metadata": [], "label": "COHERENT"}
+{"text": "remove change listener plot change listener listener { listener remove listener ;   unregisters object notification change plot", "metadata": [], "label": "COHERENT"}
+{"text": "minimum horizontal data { dataset data chart dataset ; data null { datasets minimum domain data ; } null ;   minimum domain plotted horizontal axis xy plot", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "xy plot axis horizontal axis axis vertical axis inset inset paint background stroke outline stroke paint outline paint { horizontal axis vertical axis inset background outline stroke outline paint ; renderer standard xy item renderer ; tool generator null ;   construct xy plot", "metadata": [], "label": "COHERENT"}
+{"text": "{ ;   axis deep axis", "metadata": [], "label": "COHERENT"}
+{"text": "category axis category axis { category axis horizontal axis ;   convenience method reference horizontal axis cast category axis", "metadata": [], "label": "COHERENT"}
+{"text": "compatible vertical axis axis axis { axis vertical axis { true ; } false ;   check compatibility vertical axis returning true axis compatible plot false", "metadata": [], "label": "COHERENT"}
+{"text": "handle click draw info info { set anchor horizontal axis axis vva range axis ; vvalue vva translate java dto info data ; vva set anchor vvalue ; vva set crosshair vvalue ;   handle click plot updating anchor", "metadata": [], "label": "COHERENT"}
+{"text": "set auto tick unit selection flag { auto tick unit selection flag { auto tick unit selection flag ; notify listener axis change event ;   set flag indicating tick unit automatically selected range standard tick unit", "metadata": [], "label": "COHERENT"}
+{"text": "grid visible { grid visible ;   true grid false", "metadata": [], "label": "COHERENT"}
+{"text": "set maximum axis { maximum axis { maximum axis ; auto range false ; notify listener axis change event ;   set maximum axis", "metadata": [], "label": "COHERENT"}
+{"text": "set crosshair stroke stroke stroke { crosshair stroke stroke ; notify listener axis change event ;   set stroke draw grid notifies registered listener axis ha modified", "metadata": [], "label": "COHERENT"}
+{"text": "set grid stroke stroke stroke { check argument stroke null { illegal argument exception axis set grid stroke null permitted ; } change grid stroke stroke ; notify listener axis change event ;   set stroke draw grid notifies registered listener axis ha modified", "metadata": [], "label": "COHERENT"}
+{"text": "set auto range auto { auto range auto { auto range auto ; auto range auto adjust range ; notify listener axis change event ;   set flag determines axis range automatically adjusted fit data notifies registered listener axis ha modified", "metadata": [], "label": "COHERENT"}
+{"text": "set crosshair paint paint paint { crosshair paint paint ; notify listener axis change event ;   set paint color grid notifies registered listener axis ha modified", "metadata": [], "label": "COHERENT"}
+{"text": "crosshair locked data { crosshair locked data ;   flag indicating crosshair lock actual data", "metadata": [], "label": "COHERENT"}
+{"text": "tick unit { unit array list ;   construct collection tick unit", "metadata": [], "label": "COHERENT"}
+{"text": "bar width category category dataset data { data series count ;   method renderer bar width category onebarwidth series category", "metadata": [], "label": "COHERENT"}
+{"text": "compatible vertical axis axis axis { axis vertical axis { true ; } false ;   check compatibility vertical axis returning true axis compatible plot false", "metadata": [], "label": "COHERENT"}
+{"text": "title string title { title title ; listener java util array list ;   standard constructor build title object", "metadata": [], "label": "COHERENT"}
+{"text": "title create instance string title font font { standard title title font ;   factory method concrete subclass title", "metadata": [], "label": "COHERENT"}
+{"text": "set chart free chart chart { chart chart ;   set chart generated change event", "metadata": [], "label": "COHERENT"}
+{"text": "chart change event object source free chart chart type { source ; chart chart ; type type ;   constructor chart change event object type", "metadata": [], "label": "COHERENT"}
+{"text": "type { type ;   event type", "metadata": [], "label": "COHERENT"}
+{"text": "visible { visible ;   axis visible drawn", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "axis range range { axis range range ; visible { axis auto adjust range ; range axis range axis minimum axis maximum ; } { auto adjust range ; range axis range minimum maximum ; } range ;   axis range axis", "metadata": [], "label": "COHERENT"}
+{"text": "rectangle reserve axis graphic plot plot rectangle draw reserved width { rectangle empty rectangle ; iterator iter ax iterator ; iter ha { horizontal axis axis horizontal axis iter ; rectangle axis reserve axis plot draw reserved width ; equal empty { ; } } empty ;   axis displayed", "metadata": [], "label": "COHERENT"}
+{"text": "set reserve dimension dimension { reserve width dimension ;   combined plot calculate maximim reserve width reserve height depending type combined plot inform combined xxxxx axis store", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "primitive { primitive ;   fast", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "combined plot axis axis type { type vertical axis null type horizontal axis null ; type horizontal type vertical { illegal argument exception invalid type type ; } type type ; set inset inset ;   creates horizontal vertical combined plot", "metadata": [], "label": "COHERENT"}
+{"text": "series count { ;   series data source", "metadata": [], "label": "COHERENT"}
+{"text": "java util list horizontal ax { horizontal ax false ;   list horizontal ax", "metadata": [], "label": "COHERENT"}
+{"text": "axis range min max { min max ;   creates axis range object", "metadata": [], "label": "NOT_COHERENT"}
+{"text": "set visible flag { visible flag ;   set visible flag combined axis", "metadata": [], "label": "COHERENT"}
+{"text": "axis range range { plot range ax ;   axis range axis", "metadata": [], "label": "COHERENT"}
+{"text": "create time month day hour minute { gregorian calendar calendar gregorian calendar month day hour minute ; calendar time ;   java util month day hour minute", "metadata": [], "label": "COHERENT"}
+{"text": "string text { text ;   tooltip text", "metadata": [], "label": "COHERENT"}
+{"text": "title property edit panel title property edit panel { title property panel ;   reference title property panel", "metadata": [], "label": "COHERENT"}
+{"text": "anti alias { antialias selected ;   current setting anti alias flag", "metadata": [], "label": "COHERENT"}
+{"text": "legend property edit panel legend property edit panel { legend property panel ;   reference legend property panel", "metadata": [], "label": "COHERENT"}
+{"text": "attempt modify label paint { color ; color chooser dialog label color color blue ; null { label paint sample set paint ;   user opportunity change outline paint", "metadata": [], "label": "COHERENT"}
+{"text": "axis property edit panel instance axis axis { axis null { figure type axis instantiate panel axis axis { axis property edit panel axis axis ; } axis property edit panel axis ; } null ;   method panel axis type", "metadata": [], "label": "COHERENT"}
+{"text": "inset tick label inset { tick label inset null inset tick label inset ;   current tick label inset", "metadata": [], "label": "COHERENT"}
+{"text": "font tick label font { tick label font ;   font draw tick label", "metadata": [], "label": "COHERENT"}
+{"text": "stroke outline stroke { outline stroke sample stroke ;   current outline stroke", "metadata": [], "label": "COHERENT"}
+{"text": "axis property edit panel vertical axis property edit panel { vertical axis property panel ;   reference panel editing property vertical axis", "metadata": [], "label": "COHERENT"}
+{"text": "attempt background paint selection { color ; color chooser dialog background color color blue ; null { background paint sample set paint ;   user change background paint", "metadata": [], "label": "COHERENT"}
+{"text": "attempt paint selection { color color chooser dialog title color color blue ; null { title paint set paint ;   user opportunity select paint object", "metadata": [], "label": "COHERENT"}

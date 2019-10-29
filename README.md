@@ -64,5 +64,5 @@ The simplified version of the output log is in `output/`.
 }
 ```
 
-More detailed model and output can be downloaded [here]().
+More detailed model and output can be downloaded [here](https://drive.google.com/file/d/15KlujWt_OP0ueaqs_rrlE-JwmsqYtv1e/view?usp=sharing).
 
